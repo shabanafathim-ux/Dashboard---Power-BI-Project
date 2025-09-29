@@ -41,6 +41,8 @@ This dashboard was created for portfolio demonstration purposes to showcase my a
 
 Screenshot : https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/Screenshot%20-%20Sales%20Dashboard.png
 
+https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/sales.pbit
+
 ⚠️ Disclaimer
 
 The dataset used in this dashboard was obtained from Kaggle and is used solely for demonstration purposes. It does not represent actual business results or proprietary company information.
