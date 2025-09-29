@@ -39,9 +39,8 @@ It’s built as a realistic example of how I approach data modeling, DAX calcula
 
 This dashboard was created for portfolio demonstration purposes to showcase my approach to dashboard design, KPI selection, and analytical storytelling. The techniques used here are directly applicable to real business intelligence projects in a corporate setting.
 
-Screenshot : https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/Screenshot%20-%20Sales%20Dashboard.png
+Screenshot : ![Alt text](https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/Screenshot%20-%20Sales%20Dashboard.png)
 
-https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/sales.pbit
 
 ⚠️ Disclaimer
 
