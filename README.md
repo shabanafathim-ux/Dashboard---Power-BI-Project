@@ -1,45 +1,46 @@
 # Dashboard---Power-BI-Project
-
 📊 HANA Chocolates – Sales Performance Dashboard (Power BI)
 
-This project is a portfolio-level Power BI dashboard built to demonstrate how business-critical metrics can be visualized and communicated in a real-world scenario. All data used here is synthetic and for demonstration only, but the dashboard structure, logic, and design reflect how an actual business analytics solution would be delivered.
+This project is a portfolio-level Power BI dashboard built to demonstrate how business performance metrics can be visualized and communicated using real-world data. The dataset used here was sourced from Kaggle and is used purely for demonstration purposes — it does not represent any actual company’s confidential information.
 
 📁 Project Overview
 
-The dashboard presents a complete view of sales performance for HANA Chocolates, focusing on key operational and financial indicators. It’s designed as an executive-level report — the kind a sales or strategy team would use to monitor growth, track performance against targets, and make quick data-driven decisions.
+The dashboard presents a complete view of sales performance for a fictional chocolate brand, HANA Chocolates, highlighting the key metrics that decision-makers track on a monthly basis. It’s designed as an executive dashboard that combines revenue, cost, shipment, and product-level insights in one place — helping users quickly understand business performance and identify growth opportunities.
 
-It brings together sales, shipments, costs, and profit metrics into one interactive view, with built-in analysis tools that highlight trends, identify shifts, and surface product-level insights.
+It’s built as a realistic example of how I approach data modeling, DAX calculations, visualization design, and storytelling in Power BI.
 
 📊 Key Highlights
 
-        KPI Summary Cards: Instant view of Total Sales, Boxes, Shipments, Costs, and Profit — with month-over-month (MoM) comparisons and variance indicators.
-        
-        Trend Analysis: Profit percentage trend visualized over time to quickly identify growth or dips.
-        
-        Shipment Insights: Distribution of shipments across volume bins, helping understand demand and logistics behavior.
-        
-        Product Breakdown: Ranked list of products by sales, profit, and margin — useful for spotting top performers and low performers.
-        
-        MoM Performance Alerts: Red/green indicators and % change visuals to highlight critical shifts without extra clicks.
-        
-        Region and Category Filters: Interactive slicers to drill into performance by geography or product type.
-        
-        Bookmarks for Navigation: Smooth page transitions and guided analysis without leaving the main report view.
-        
-        Trend Tips: Contextual tooltips and callouts added to charts to help users interpret trends more effectively.
+                KPI Summary Cards: Quick overview of Total Sales, Boxes, Shipments, Costs, and Profit with MoM changes and variance indicators.
+                
+                Profit Trend Analysis: Line chart showing profit % trends over time to highlight growth patterns and shifts.
+                
+                Shipment Distribution: Visualization of shipment volumes across bins to understand demand and logistics behavior.
+                
+                Product-Level Breakdown: Ranked view of products by sales, profit, and margin for performance benchmarking.
+                
+                MoM Performance Alerts: Dynamic indicators showing increases or declines compared to the previous month.
+                
+                Geography and Category Filters: Interactive slicers that let users drill into performance by region or product segment.
+                
+                Bookmarks for Navigation: Streamlined navigation and focused storytelling without switching pages.
+                
+                Trend Tips: Contextual tooltips to guide users in interpreting patterns and trends.
 
 🧰 Tools & Techniques Used
 
-        Tool: Power BI Desktop
-        
-        Data: Test dataset created to simulate real business scenarios
-        
-        Core Techniques: DAX calculations, MoM growth analysis, KPI visualization, bookmarks, custom tooltips, and interactive filtering
+                Tool: Power BI Desktop
+                
+                Data Source: Kaggle public dataset (cleaned and transformed for this project)
+                
+                Techniques: DAX calculations, MoM growth analysis, KPI visualization, bookmarks, custom tooltips, interactive filtering, and dynamic titles
 
 📌 Purpose
 
-This dashboard was built specifically for my analytics portfolio to showcase how I approach dashboard design, business logic, and data storytelling. While the data is not real, the methods, calculations, and visualization principles applied here are identical to what would be used in a production environment.
+This dashboard was created for portfolio demonstration purposes to showcase my approach to dashboard design, KPI selection, and analytical storytelling. The techniques used here are directly applicable to real business intelligence projects in a corporate setting.
+
+Screenshot : https://github.com/shabanafathim-ux/Dashboard---Power-BI-Project/blob/main/Screenshot%20-%20Sales%20Dashboard.png
 
 ⚠️ Disclaimer
 
-This dashboard uses synthetic data and is intended purely for portfolio demonstration. It does not represent actual business results or company information.
+The dataset used in this dashboard was obtained from Kaggle and is used solely for demonstration purposes. It does not represent actual business results or proprietary company information.
